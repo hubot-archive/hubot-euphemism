@@ -1,6 +1,6 @@
 {
   "name": "hubot-euphemism",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "A Hubot script that returns a random euphemism from the Euphemism Generator",
   "author": "mattroyer",
   "license": "MIT",
