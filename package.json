@@ -1,0 +1,39 @@
+{
+  "name": "hubot-euphemism",
+  "version": "0.1",
+  "description": "A Hubot script that returns a random euphemism from the Euphemism Generator",
+  "author": "mattroyer",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "euphemism"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattroyer/hubot-euphemism.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/mattroyer/hubot-euphemism/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "x",
+    "cheerio": "x"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
